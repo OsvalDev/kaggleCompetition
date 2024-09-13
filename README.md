@@ -1,0 +1,1 @@
+# COVID 19 Segmentation Kaggle competition
